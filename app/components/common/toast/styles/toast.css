@@ -1,0 +1,11 @@
+.toast {
+    vertical-align: middle;
+    margin-top: 60%;
+    position: fixed;
+    z-index: 20;
+    background: rgba(40, 40, 40, 0.75);
+    padding: 4px 0;
+    text-align: center;
+    border-radius: 5px;
+    color: #ffffff;
+}

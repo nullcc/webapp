@@ -1,0 +1,6 @@
+/node_modules
+/public/assets/
+.tags
+.tags1
+/.idea
+.DS_Store
